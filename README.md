@@ -1,7 +1,9 @@
-<img width="1163" height="650" alt="image" src="https://github.com/user-attachments/assets/1d14e7b3-c240-456b-9b41-26cbd8f2ceb5" />
-﻿
+
  **Customer-Behavior-Analysis**
  
+
+<img width="1163" height="650" alt="image" src="https://github.com/user-attachments/assets/1d14e7b3-c240-456b-9b41-26cbd8f2ceb5" />
+﻿
 **Tools & Technologies**
 Pandas for data cleaning and preprocessing
 SQL for answering business-related questions and extracting insights
